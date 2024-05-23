@@ -1,0 +1,9 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "xcuxn:custom_brah": {
+            "textures": "textures/blocks/custom_brah"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

@@ -1,0 +1,21 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+        "description": {
+            "geometry": {
+                "armor": "geometry.brtdoor",
+                "default": "geometry.brtdoor"
+            },
+            "identifier": "xcuxn:block",
+            "materials": {
+                "default": "tms_alpha_light"
+            },
+            "render_controllers": [
+                "controller.render.default"
+            ],
+            "textures": {
+                "default": "textures/entity/brtdoor"
+            }
+        }
+    }
+}

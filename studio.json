@@ -1,0 +1,53 @@
+{
+    "Account": "1156317935@qq.com",
+    "AssertCacheDir": "F:\\MCStudioDownload\\EngineAssert",
+    "BlockNums": [
+        0,
+        0
+    ],
+    "BornPoint": [
+        0,
+        0,
+        0
+    ],
+    "CanPublishResourceComponent": true,
+    "CodeEnable": false,
+    "CreateNew": true,
+    "CreateVersion": "2.11.0.614308",
+    "DCWebUrl": "https://x19apigatewayexpr.nie.netease.com",
+    "EditAddOnPaths": [
+
+    ],
+    "EditLogFilePath": "F:\\MCStudioDownload\\work\\editor\\edit.log",
+    "EditMaterialPaths": [
+
+    ],
+    "EditName": "空白附加包",
+    "EditType": 2,
+    "EditVersion": "2.11.0.614308",
+    "EditorResourcePackPath": "F:\\Minecraft\\MCStudio\\data\\inner_res",
+    "ElkUrl": "https://x19mclexpr.nie.netease.com/client-log",
+    "GameType": 1,
+    "Id": "8c7bb63c2fd7413b845b5a8a0ebd2d21",
+    "IsMap": false,
+    "NewEditCount": 1,
+    "OldComponents": [
+
+    ],
+    "OldEditCount": 0,
+    "ResourceIds": [
+
+    ],
+    "SaveBackAddOnPath": "F:\\MCStudioDownload\\work\\1156317935@qq.com\\Cpp\\AddOn\\8c7bb63c2fd7413b845b5a8a0ebd2d21",
+    "SaveBackMapPath": null,
+    "Seed": "",
+    "ServerName": "EXPR",
+    "ShowGpuDriverTips": false,
+    "ShowGuide": false,
+    "Source": "空白附加包",
+    "StudioPort": 9571,
+    "StudioTempPath": "F:\\MCStudioDownload\\temp\\editorTemp",
+    "UserId": "51049",
+    "UserName": "南宫幻雅",
+    "WorldType": 1
+}

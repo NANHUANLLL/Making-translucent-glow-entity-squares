@@ -1,0 +1,60 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 16
+            },
+            "minecraft:block_light_emission": {
+                "emission": 1.0
+            },
+            "minecraft:destroy_time": {
+                "value": 5.0
+            },
+            "netease:aabb": {
+                "clip": {
+                    "max": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "collision": {
+                    "max": [
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "min": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            },
+            "netease:block_entity": {
+                "client_tick": true,
+                "movable": true,
+                "tick": true
+            },
+            "netease:face_directional": {
+                "type": "direction"
+            },
+            "netease:render_layer": {
+                "value": "blend"
+            },
+            "netease:tier": {
+                "digger": "pickaxe"
+            }
+        },
+        "description": {
+            "identifier": "xcuxn:block",
+            "register_to_creative_menu": true
+        }
+    }
+}

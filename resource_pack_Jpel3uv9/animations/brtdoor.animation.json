@@ -1,0 +1,42 @@
+{
+    "animations": {
+        "animation.brtdoor.open_door": {
+            "animation_length": 1.25,
+            "bones": {
+                "door1": {
+                    "position": {
+                        "0.0": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "1.25": [
+                            8,
+                            0,
+                            0
+                        ]
+                    }
+                },
+                "door2": {
+                    "position": {
+                        "0.0": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "1.25": [
+                            -8,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            },
+            "loop": "hold_on_last_frame",
+            "particle_effects": {
+
+            }
+        }
+    },
+    "format_version": "1.8.0"
+}

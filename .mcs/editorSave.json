@@ -1,0 +1,24 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "1_xcuxn:block": {
+                "createTime": 1716448942.385782,
+                "modifyTime": 1716451813.723928
+            },
+            "4_xcuxn:block": {
+                "createTime": 1716448688.0936353,
+                "modifyTime": 1716449283.5091803
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "xcuxn:block": {
+        "client_entity": {
+            "block_icon": "xcuxn:custom_brah",
+            "destoryed_textures": "xcuxn:custom_brah",
+            "hand_model_use_client_entity": true,
+            "identifier": "xcuxn:block"
+        },
+        "isotropic": {
+
+        },
+        "netease_model": "",
+        "sound": "stone",
+        "textures": {
+            "down": "xcuxn:custom_brah",
+            "east": "xcuxn:custom_brah",
+            "north": "xcuxn:custom_brah",
+            "south": "xcuxn:custom_brah",
+            "up": "xcuxn:custom_brah",
+            "west": "xcuxn:custom_brah"
+        }
+    }
+}

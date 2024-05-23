@@ -1,0 +1,13 @@
+{
+  "materials": {
+    "version": "1.0.0",
+    "tms_alpha_light:entity_static": {
+      "+defines": [
+        "USE_UV_ANIM",
+        "ALPHA_TEST",
+        "USE_EMISSIVE"
+      ],
+      "+states":["Blending","DisableCulling"]
+    }
+  }
+}
