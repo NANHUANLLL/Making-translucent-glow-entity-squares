@@ -1,3 +1,4 @@
+文件一    
 resource_pack\materials\entity.materialss
 {
   "materials": {
@@ -12,6 +13,7 @@ resource_pack\materials\entity.materialss
     }
   }
 }
+文件二
 resource\entity\xcuxn_block.json
 "materials": {
     "default": "tms_alpha_light"
